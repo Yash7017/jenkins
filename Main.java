@@ -4,5 +4,6 @@ public class Main{
         System.out.println("this is java program");
         System.out.println("output from my first jenkins program");
         System.out.println("Edit one more file");
+        System.out.println("Edit second file");
     }
 }
